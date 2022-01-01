@@ -1,2 +1,2 @@
 # desktopnotifier
-She_hacks (beginner level)
+She_hacks by tinkerhub (beginner level)
